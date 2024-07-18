@@ -84,7 +84,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/Neural_Networks_From_Scratch.git
+   git clone https://github.com/aqaPayam/Neural_Networks_From_Scratch.git
    cd Neural_Networks_From_Scratch
    ```
 
